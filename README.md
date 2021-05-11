@@ -7,4 +7,4 @@ Raiz organizacional no mestrado do PPGCC. Este repositorio tem como objetivo org
   * [Template Latex](https://bitbucket.org/vilarneto/ppgccufmg/)
 * Disciplinas
   * TBD
-* Perfil de colegas 
+* [Perfis de Colegas](./turma-2021-1.md) 
