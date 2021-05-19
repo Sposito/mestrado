@@ -6,5 +6,6 @@ Raiz organizacional no mestrado do PPGCC. Este repositorio tem como objetivo org
 * Links Úteis
   * [Template Latex](https://bitbucket.org/vilarneto/ppgccufmg/)
 * Disciplinas
-  * TBD
+  * Projeto e Análise de Algorítimos
+    *  https://www.win.tue.nl/~kbuchin/teaching/JBP030/notebooks/loop-invariants.html
 * [Perfis de Colegas](./turma-2021-1.md) 
